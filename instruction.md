@@ -38,3 +38,11 @@
 это конец 
  # FINISH !
  
+
+ add "имя файла" 
+
+ потом commit -m "text"
+
+ дальше проверить через status
+
+git push -u origin main команда для заливки в облако
